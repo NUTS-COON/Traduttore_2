@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Traduttore</string>
+    <string name="yandex"><p>Переведено сервисом <font color="#ffa500">«Яндекс.Переводчик»</font></p></string>
+</resources>
